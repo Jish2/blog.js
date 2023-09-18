@@ -1,9 +1,5 @@
 import styled from "@emotion/styled";
 
-const Button = styled.button`
-	color: turquoise;
-`;
-
 const HeroText = styled.h1`
 	margin: 0;
 	font-size: 72px;
