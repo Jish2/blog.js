@@ -40,10 +40,16 @@ function App() {
 				{/* animated arrow icon please */}
 			</HeroGeist>
 			<Spacer />
-			<PageGeist id="get-started">
+			<PageGeist id="construction">
 				<HeroText>Hey!</HeroText>
 				<p>thanks for checking us out! blog.js is under development.</p>
 				<p>come back later and see what's happening</p>
+			</PageGeist>
+			<PageGeist id="about">
+				<HeroText>Why?</HeroText>
+				<p>when i hand-made my blog from scratch, i realized blog creation fundamentally comes down to one things.</p>
+				<p>a cms.</p>
+				<p>i realized there was no plug & play option for any cms, so i decided to close this gap.</p>
 			</PageGeist>
 		</>
 	);
